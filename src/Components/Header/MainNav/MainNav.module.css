@@ -1,0 +1,32 @@
+.nav_main {
+  display: flex;
+  height: 55px;
+  background-color: white;
+  justify-content: space-between;
+  align-items: center;
+}
+.nav_main a {
+  text-decoration: none;
+  color: black;
+}
+.city {
+  width: 17%;
+}
+.city_icon {
+  margin: 0 7px 0 0;
+}
+.menu {
+  display: flex;
+  /* width: 65%; */
+}
+.menu div {
+  margin: 0 10px;
+}
+.down_caret {
+  width: 15px;
+  height: 15px;
+}
+.phone {
+  width: 12%;
+  text-align: right;
+}

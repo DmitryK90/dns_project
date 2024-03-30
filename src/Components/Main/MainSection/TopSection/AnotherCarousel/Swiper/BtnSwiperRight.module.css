@@ -1,0 +1,16 @@
+.btnSwiperRight {
+  width: 50px;
+  height: 50px;
+  border-radius: 25px;
+  position: absolute;
+  background-color: lightblue;
+  top: 50%;
+  right: 5px;
+  margin-top: -25px;
+  cursor: pointer;
+  opacity: 0;
+  transition: opacity 0.3s ease-in-out;
+}
+.visible {
+  opacity: 1;
+}

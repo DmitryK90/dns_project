@@ -1,0 +1,11 @@
+.leftSectionContainer {
+  flex-grow: 1;
+  width: 33%;
+}
+.leftSectionContainer p {
+  padding: 10px 0 0 0;
+  font-size: 13px;
+}
+.card {
+  display: flex;
+}

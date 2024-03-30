@@ -1,0 +1,12 @@
+/* // :global {
+//   :root {
+//     --main-color: var(--color-orange-light);
+//   }
+// } */
+.promo_banner {
+  height: 50px;
+  background-color: orange;  /*var(--main-color)*/
+  text-align: center; /* выравн. по вертикали.(с line-height) */
+  line-height: 50px;
+}
+/* работает без :root, возможно без scss работать без него будет, но если переделать на scss то не будет, проверить. */

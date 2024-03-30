@@ -1,0 +1,30 @@
+.userProfile {
+  height: 100%;
+  width: 32%;
+  padding: 22px 17px 17px 17px;
+  background-color: rgb(252, 245, 213);
+  border-radius: 10px;
+}
+.userProfile p {
+  padding: 10px 0 0 0;
+  font-size: 13px;
+}
+.buttons {
+  display: flex;
+  gap: 5px;
+  padding: 45px 0 0 0;
+}
+.btnLogIn {
+  width: 65px;
+  height: 35px;
+  background-color: white;
+  border-radius: 6px;
+  border: 1px solid #eee;
+}
+.myOrders {
+  width: 100px;
+  height: 35px;
+  background-color: white;
+  border-radius: 6px;
+  border: 1px solid #eee;
+}

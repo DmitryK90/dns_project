@@ -1,0 +1,8 @@
+.nav_additional {
+  display: flex;
+  height: 60px;
+  background-color: white;
+  /* justify-content: space-between; */
+  align-items: center;
+  gap: 15px;
+}
